@@ -20,4 +20,3 @@ while True:
 client.close()
 
 #localhost: 127.0.0.1
-#IP: 192.168.0.121

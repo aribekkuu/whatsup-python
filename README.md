@@ -45,7 +45,7 @@ hostname -I                 # Linux
 Participants on the same network join with:
 
 ```bash
-nc 192.168.0.121 33000
+nc <ip> <port>
 ```
 
 ## Encrypted mode (`--ssl`)

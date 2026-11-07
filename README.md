@@ -4,4 +4,4 @@
 
 ## client should connect
 
-### nc <host ip> <port>
+### nc hostip port
